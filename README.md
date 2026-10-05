@@ -381,8 +381,6 @@ This project is an unofficial fan-made KSP configuration and is not affiliated w
 
 The configuration files themselves may be distributed separately from copyrighted soundtrack audio.
 
-If publishing this project publicly, make sure you have the necessary rights or permission to redistribute any included music files.
-
 ## License
 
 The MusicSwitcher configuration and supporting project files may be released under a software/content license chosen by the repository owner.
